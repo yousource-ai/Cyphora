@@ -608,7 +608,7 @@ See the [contribution priorities](#roadmap--contribution-priorities) for the hig
 
 | Purpose | Contact |
 |---|---|
-| **Beta evaluation access** (enterprise / government) | **info@yousource.ai** — include org, deployment environment (on-prem / private cloud / air-gapped), current SIEMs, and daily alert volume |
+| **Beta evaluation access** (enterprise / government) | **john@yousource.ai** — include org, deployment environment (on-prem / private cloud / air-gapped), current SIEMs, and daily alert volume |
 | General inquiries | john@yousource.ai |
 | Commercial support & integration services | john@yousource.ai |
 | Security disclosure | see [`SECURITY.md`](./SECURITY.md) — subject `Security Disclosure — [brief description]` |
